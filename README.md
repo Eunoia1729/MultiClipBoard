@@ -4,6 +4,7 @@ This is the solution for that problem!
 You can use multiclipboard to save multiple informations in the clipboard.
 
 **Note: This was made keeping in mind, a windows users. A little tweaking makes it work in linux too**
+
 Instructions to set up:
 After downloading the repository
 Enter the path of mcb.pyw in the mcb.bat file
