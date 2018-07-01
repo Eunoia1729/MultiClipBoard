@@ -11,7 +11,7 @@ Enter the path of mcb.pyw in the mcb.bat file
 
 How to use:
 Open the command prompt at where the mcb.bat is present and enter these in the prompt to use: <br />
-    mcb save <keyword>  -saves clipboard to keyword <br />
+    mcb save <--keyword-->  -saves clipboard to keyword <br />
     mcb <keyword>       -loads the keyword content <br />
     mcb list            -lists all the keywords <br />
     mcb del <keyword>   -deletes that particular keyword <br />
